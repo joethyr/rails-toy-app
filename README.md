@@ -1,24 +1,27 @@
-# README
+# Project: Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple toy demo app to show off the power of Rails.
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+The project goal is to get a good overview of Ruby on Rails programming by generating an app using scaffold generators, adn interacting with it through its URLs.
 
-* System dependencies
+## Getting Started
 
-* Configuration
+### Ruby Version
 
-* Database creation
+* Rails 7 requires Ruby 2.7.0 or newer.
 
-* Database initialization
+## Help
 
-* How to run the test suite
+Run command to view all of the options you can pass to rails application.
+```
+rails new --help
+```
+## Links
+[Heroku App]( )
 
-* Services (job queues, cache servers, search engines, etc.)
+## Web Resources
 
-* Deployment instructions
-
-* ...
+* [Learn Enough to Be Dangerous](https://www.learnenough.com/)
+* [Rails Guides](https://guides.rubyonrails.org/getting_started.html)
